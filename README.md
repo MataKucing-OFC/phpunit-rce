@@ -12,7 +12,7 @@ $ python3 MKLaravel.py
 ```
 
 ## General info
-This tools is exploiting phpunit rce to uploading shell or execute command from the functions
+This tools is exploiting phpunit rce to uploading shell or execute command from the functions. SHELL PASSWORD IS : mk1337
 
 ## Feature
 This tool have some feature :
